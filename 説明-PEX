@@ -1,0 +1,21 @@
+========admin location========
+./pex group admin create
+./pex user minavy group add admin
+./pex user minavy group set admin
+./pex group admin prefix &f[&f&4Admin&f]&f
+
+========Moderator location========
+./pex group Moderator create
+./pex user minavy group add Moderator
+./pex user minavy group set Moderator
+./pex group admin prefix &f[&f&bModerator&f]&f
+
+========Owner location========
+./pex group Owner create
+./pex user minavy group add Owner
+./pex user minavy group set Owner
+./pex group admin prefix &f[&f&6Admin&f]&f
+
+========OPDate========
+Dat_Sylveon・Ghost9kuma・Minavy・_Oversero・deashi_note・fkwj・mixtutunn
+・opqpeetyrtiquq・rinon_1102・shadowray0・syameimaru68・xidux・yukkurimomiji
